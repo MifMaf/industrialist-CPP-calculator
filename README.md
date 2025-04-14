@@ -1,1 +1,1 @@
-# industrialist-CPP-calculator
+# industrialist-CPP-simulator
